@@ -1,0 +1,14 @@
+{
+    "name": "IRL Podcast",
+    "manifest_version": 2,
+    "version": "1.0",
+    "theme": {
+        "images": {
+            "theme_frame": "IRL Podcast desktop Seburo 07072019.png"
+        },
+        "colors": {
+            "frame": "rgba(229, 230, 232, 1)",
+            "tab_background_text": "rgba(255, 255, 255, 1)"
+        }
+    }
+}
